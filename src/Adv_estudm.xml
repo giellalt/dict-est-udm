@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="Adv">>kaasa arvatud</l></lg><mg><tg><t>лыдэ басьтэмын, лыдэ басьтыса </t></tg></mg></e>
+<e><lg><l pos="Adv">kavalalt </l><comment>&lt;kavalalt adv&gt;, ka kavalasti</comment></lg><mg><tg><t>амало, кескич</t></tg></mg><mg><defNative>osavalt, leidlikult</defNative><tg><t>амало, кескич </t></tg><xg><x>kavalalt naeratama </x><xt><в>кескич пальпотыны я.</в> <в>мыняны</в></xt></xg><xg><x>kavalalt silma pilgutama </x><xt>кескич кырмышъяны</xt></xg><xg><x>vastane meelitati kavalalt lõksu </x><xt>тушмонэз котыртэме амало нуыны </xt></xg><xg><x>kavalalt koostatud plaan </x><xt>кескич дасям рад </xt></xg><nl/></mg></e>
+<e><lg><l pos="Adv">kikivarvul </l><comment>&lt;+varvul adv&gt;, ka kikivarbail, kikivarvukil</comment></lg><mg><tg><t>пыдчиньы йылын </t></tg><xg><x>kikivarvul hiilima</x><xt>пыдчиньы йылын матэктыны </xt></xg></mg></e>
+<e><lg><l pos="Adv">kurvalt </l><comment>&lt;kurvalt adv&gt;, ka kurvasti</comment></lg><mg><tg><t>ӝож, ӝожмыт </t></tg><xg><x>naeratas kurvalt</x><xt>ӝож пальпотӥз</xt></xg><xg><x>film lõpeb kurvalt v kurvasti </x><xt>фильм ӝож быре </xt></xg></mg></e>
+<e><lg><l pos="Adv">pKr</l></lg><mg><tg><t>Христослэн вордскемез бере </t></tg></mg></e>
+<e><lg><l pos="Adv">rõõmsalt </l><comment>&lt;r'õõmsalt adv&gt;, ka rõõmsasti</comment></lg><mg><tg><t><в>шумпотыса </в>kahjurõõmsalt <в>касъяськыса</в></t></tg><xg><x>naeratab rõõmsalt </x><xt>шумпотыса мыньпотэ </xt></xg><nl/></mg></e>
+<e><lg><l pos="Adv">samamoodi </l><comment>&lt;+m'oodi adv&gt;, ka sama moodi</comment></lg><mg><tg><t>озьы ик </t></tg></mg></e>
+<e><lg><l pos="Adv">ühekaupa </l><comment>&lt;+k'aupa adv&gt;, ka ühe kaupa</comment></lg><mg><tg><t>одӥген, одӥген-одӥген, котькудзэ нимаз </t></tg></mg></e>
+
+
+</r>
