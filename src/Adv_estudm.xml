@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r>
+<r id="estudm" xml:lang="est">
 <e><lg><l pos="Adv">>kaasa arvatud</l></lg><mg><tg><t>лыдэ басьтэмын, лыдэ басьтыса </t></tg></mg></e>
 <e><lg><l pos="Adv">kavalalt </l><comment>&lt;kavalalt adv&gt;, ka kavalasti</comment></lg><mg><tg><t>амало, кескич</t></tg></mg><mg><defNative>osavalt, leidlikult</defNative><tg><t>амало, кескич </t></tg><xg><x>kavalalt naeratama </x><xt><в>кескич пальпотыны я.</в> <в>мыняны</в></xt></xg><xg><x>kavalalt silma pilgutama </x><xt>кескич кырмышъяны</xt></xg><xg><x>vastane meelitati kavalalt lõksu </x><xt>тушмонэз котыртэме амало нуыны </xt></xg><xg><x>kavalalt koostatud plaan </x><xt>кескич дасям рад </xt></xg><nl/></mg></e>
 <e><lg><l pos="Adv">kikivarvul </l><comment>&lt;+varvul adv&gt;, ka kikivarbail, kikivarvukil</comment></lg><mg><tg><t>пыдчиньы йылын </t></tg><xg><x>kikivarvul hiilima</x><xt>пыдчиньы йылын матэктыны </xt></xg></mg></e>
@@ -8,6 +8,7 @@
 <e><lg><l pos="Adv">rõõmsalt </l><comment>&lt;r'õõmsalt adv&gt;, ka rõõmsasti</comment></lg><mg><tg><t><в>шумпотыса </в>kahjurõõmsalt <в>касъяськыса</в></t></tg><xg><x>naeratab rõõmsalt </x><xt>шумпотыса мыньпотэ </xt></xg><nl/></mg></e>
 <e><lg><l pos="Adv">samamoodi </l><comment>&lt;+m'oodi adv&gt;, ka sama moodi</comment></lg><mg><tg><t>озьы ик </t></tg></mg></e>
 <e><lg><l pos="Adv">ühekaupa </l><comment>&lt;+k'aupa adv&gt;, ka ühe kaupa</comment></lg><mg><tg><t>одӥген, одӥген-одӥген, котькудзэ нимаз </t></tg></mg></e>
+<e><lg><l pos="Adv">vaid </l><comment>&lt;v'aid adv&gt;</comment></lg><mg><c>1. </c>adv <defNative>ainult, üksnes, kõigest</defNative><tg><t>гинэ</t></tg><xg><x>sinna on maad vaid mõni kilomeeter </x><xt><в>отчыозь кӧня ке иськем гинэ </в>kogunenud oli vaid mõnikümmend inimest <в>люкаськемын вал кызь-куамын адями гинэ</в></xt></xg><xg><x>elasin seal vaid lühikest aega </x><xt>вакчи дыр ӵоже гинэ отын улӥ</xt></xg><xg><x>ma usun vaid seda, mida ise näen </x><xt>мон оскисько солы гинэ, мае ачим </xt></xg><nl/><в>адӟисько</в></mg><mg><c>2. </c>adv <defNative>rõhuadverbina: ainult</defNative><tg><t> <в>гинэ </в>:</t></tg><xg><x>siin on kõike küllalt, võtke vaid </x><xt>татын ваньмыз трос, басьтэлэ гинэ</xt></xg><xg><x>see on täiesti võimalik, kui sa vaid tahad </x><xt>со зэм но луоно, аслад гинэ мылкыдыд медло</xt></xg><xg><x>oleks vaid isa kodus! </x><xt>атай дорын мед гинэ луысал!</xt></xg><nl/></mg></e>
 
 
 </r>
