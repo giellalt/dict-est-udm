@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="estudm" xml:lang="est">
-<e><lg><l pos="Pr">väljaspool </l><comment>&lt;+p'ool prep&gt; vt ka väljapoole, väljastpoolt </comment></lg><mg><c>1. </c>prep [part] <defNative>millegi piiridest väljas</defNative><tg><t> <в>палэнын, кырын, педлон </в></t></tg><xg><x>väljaspool linna asuv tsehh</x><xt> <в>карлэсь палэнын интыяськем цех </в></xt></xg></mg></e>
-<e><lg><l pos="Pr">väljapoole </l><comment>&lt;+p'oole prep&gt; vt ka väljaspool, väljastpoolt</comment></lg><mg><c>2. </c>prep [part]<tg><t>сьӧры</t></tg><xg><x>ta maeti väljapoole surnuaia müüri </x><xt><в>сое шайвыл борддорлэн сьӧраз ватӥзы </в></xt></xg></mg></e>
+<e><lg><l pos="Pr">väljaspool </l><comment>&lt;+p'ool prep&gt; vt ka väljapoole, väljastpoolt </comment></lg><mg><c>1. </c>prep [part] <defNative>millegi piiridest väljas</defNative><tg xml:lang="udm"><t> <в>палэнын, кырын, педлон </в></t></tg><xg><x>väljaspool linna asuv tsehh</x><xt> <в>карлэсь палэнын интыяськем цех </в></xt></xg></mg></e>
+<e><lg><l pos="Pr">väljapoole </l><comment>&lt;+p'oole prep&gt; vt ka väljaspool, väljastpoolt</comment></lg><mg><c>2. </c>prep [part]<tg xml:lang="udm"><t>сьӧры</t></tg><xg><x>ta maeti väljapoole surnuaia müüri </x><xt><в>сое шайвыл борддорлэн сьӧраз ватӥзы </в></xt></xg></mg></e>
 
 
 </r>

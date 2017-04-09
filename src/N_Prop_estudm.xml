@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="estudm" xml:lang="est">
-<e><lg><l pos="N" type="Prop">USA</l></lg><mg><tg><t>США</t><t>АОШ</t><t>Америкалэн огазеям штатъёсыз</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">USA</l></lg><mg><tg xml:lang="udm"><t>США</t><t>АОШ</t><t>Америкалэн огазеям штатъёсыз</t></tg></mg></e>
 </r>
